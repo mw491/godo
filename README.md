@@ -9,7 +9,6 @@ to install objectboxlib to the program:
 ```
 mkdir objectboxlib && cd objectboxlib
 bash <(curl -s https://raw.githubusercontent.com/objectbox/objectbox-c/main/download.sh) 0.13.0
-
 ```    
 
 for a more detailed explanation, visit https://golang.objectbox.io/install.   
